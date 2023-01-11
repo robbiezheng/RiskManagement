@@ -8,6 +8,7 @@ gen/
 node_modules/
 target/
 *.sqlite
+.env
 
 # Web IDE, App Studio
 .che/
@@ -30,4 +31,4 @@ mta_archives/
 .vscode/
 .idea
 
-.env
+
