@@ -66,5 +66,5 @@ resources:
         tenant-mode: dedicated
       oauth2-configuration: # <-- add this
       redirect-uris:
-        # example: - https://risk-management-approuter.cfapps.eu10-004.hana.ondemand.com/login/callback
+        # example: - cds add approuter --for production
         - https:///login/callback
