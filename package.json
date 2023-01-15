@@ -12,10 +12,11 @@
   "dependencies": {
     "@sap-cloud-sdk/http-client": "^2.5.0",
     "@sap/cds": "^6",
+    "@sap/xssec": "^3",
     "express": "^4",
     "hdb": "^0.19.0",
-    "@sap/xssec": "^3",
-    "passport": "^0"
+    "passport": "^0",
+    "wordwrap": "https://registry.npmjs.org/wordwrap/-/wordwrap-1.0.0.tgz"
   },
   "devDependencies": {
     "@sap/ux-specification": "^1.102.14",
